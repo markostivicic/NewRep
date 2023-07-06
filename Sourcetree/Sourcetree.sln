@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sourcetree.api", "Sourcetree.api\Sourcetree.api.csproj", "{4DE75D2C-6387-478D-B4C4-A42C78EA262A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DE75D2C-6387-478D-B4C4-A42C78EA262A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE75D2C-6387-478D-B4C4-A42C78EA262A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE75D2C-6387-478D-B4C4-A42C78EA262A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE75D2C-6387-478D-B4C4-A42C78EA262A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC6CDFC8-8D85-4F8D-87AE-B760EE8CA698}
+	EndGlobalSection
+EndGlobal
